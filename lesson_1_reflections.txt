@@ -1,0 +1,15 @@
+	How did viewing a diff between two versions of a file help you see the bug that was introduced?
+file compare is useful for taking you directly to file changes as opposed to looking through complete code and searching manually.It is time efficient.
+	How could having easy access to the entire history of a file make you a more efficient programmer in the long term? 
+make you more reliable because you know the best ways to find bugs and eliminate them.If a file needs to revert back to something it had implemented before you know what steps to take to accomplish that as well.
+	What do you think are the pros and cons of manually choosing when to create a commit,like you do in Git,vs having versions automatically saved,like Google docs does?
+Pros:using ones thought process to make logical decisons on when to commit to streamline the process and have short consice commits that are to the point and efficient.
+Cons:sometimes one may not kno when it is a good time to creta a commit.Waiting too long to create a commit will result in a log thats too long and cluttered which would lead to inefficiency.
+	Why do you think some version control systems,like Git,allow saving multiple files in one commit,while others,like Google Docs,treat each file seperately?
+because git is more code related for programmers and apps such as google docs is a more general documenting format.
+	How can you use the commands git log and get diff to view the history of files?
+you can use git log to find the file your looking for and git diff to compare it to a previous file to note changes made.
+	How might using version control make you more confident to make changes that could break something?
+because with git you kno you will always have files to reference in case you make a mistake you can always get to where it is and fix it so.
+	Now that you have your wokspaceset up,what do you want to try using Git for?
+using it to saves different versions of code as commits and to help debugging.
