@@ -4,3 +4,5 @@ you create a folder containing all the history of that or those files to be view
 the working directory are where the files are located.The repository is then created to take what files you want if any or all from the working directory and links them and keeps track of them with commits.the staging are is the area you use to decide what files and how you want to add them to the repository for track keeping.It adds value cuz instead of adding all files from directory into 1 commit it lets the user decide what files and when to commit from the working directory.
 	How can you use the staging area to make sure you have one commit per logical change?
 By using get diff after adding and get diff --staged to compare files and add only files to a new commit that has a changed value.
+	What are some situations when branches would be helpful in keeping your history organized?How would branches help?
+branches help in creating different versions of the same file with changes the user may want without modifying the main file in the main branch.branches help because any mistakes made wouldnt modify the main branch so any mistakes made can be easily discarded.
