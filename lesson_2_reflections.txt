@@ -8,3 +8,5 @@ By using get diff after adding and get diff --staged to compare files and add on
 branches help in creating different versions of the same file with changes the user may want without modifying the main file in the main branch.branches help because any mistakes made wouldnt modify the main branch so any mistakes made can be easily discarded.
 	How do the diagrams help you visualize the branch structure?
 because git only gives you commands and what they to do to perform it would be hard to understand without vusually seeing the way things work.Understanding that making a change then switching commits would erdaicate that change completely.Also making a change that you would like to keep would require adding a new branch to your master file.
+	What is th result of merging two branches together?Why do we represent it in the diagram the way we do?
+all the commits that were accessible by the branch parents are now merged into one commit.To show exactly how git does this.
